@@ -1,0 +1,10 @@
+const char *ssid     = 
+const char *password = 
+
+const char *ota_password = 
+
+const char *device_name  = 
+const char *mqtt_server  = 
+const char *mqtt_user    = 
+const char *mqtt_pw      = 
+#define MQTT_TOPIC_BASE "home-le/firstfloor/bedroom/"
